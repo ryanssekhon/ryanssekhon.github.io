@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Hello there!
 ---
-You can change the title above if you want to and then write your content.  
+Ryan Sekhon is a 2nd year Biochemistry Major at Cal Poly San Luis Obispo.
